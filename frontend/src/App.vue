@@ -21,6 +21,10 @@ export default {
 </script>
 
 <style>
+  #app{
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  }
+
   .el-header {
     background-color: #B3C0D1;
     color: #333;
